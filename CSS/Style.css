@@ -1,0 +1,57 @@
+body {
+	height: 1800px;
+}
+/*header styles*/
+.logo {
+	display: inline-block;
+	margin-right: 60px;
+}
+.navigation{
+	display: inline-block;
+}
+.nav-li {display: inline-block;
+	margin-right: 20px;
+	text-decoration-color: black;
+}
+
+.section1{
+	margin-top: 76px
+}
+.chat-image {
+	height: 100px;
+}
+.fashion-image {
+	width: 100%;
+}
+.divider {
+    display: inline-block;
+    width: 1px;
+	height: 27px;
+	margin right: 10px;
+}
+.navigation2 {
+	display: inline-block;
+
+}
+.navigation3 {
+	display: inline-block;
+}
+.navigation4 {
+	display: inline-block;
+}
+.left-block {
+	display: inline-block;
+	margin-right: 50px;
+}
+.right-block {
+	display: inline-block;
+	margin-left: 50px;
+}
+.left-block2 {
+	display: inline-block;
+	margin-right: 50px;
+}
+.right-block3 {
+	display: inline-block;
+	margin-left: 50px;
+}
